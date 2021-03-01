@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Abacus"
+    }
+  },
+  "defaultProject": "Abacus",
+  "cli": {
+    "analytics": "ef22e4b4-d840-46df-8c8b-99c3ff2bb5ce"
+  }
 }
